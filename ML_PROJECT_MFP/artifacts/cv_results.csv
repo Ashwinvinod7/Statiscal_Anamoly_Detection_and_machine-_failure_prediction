@@ -1,0 +1,5 @@
+,cv_pr_auc,cv_roc_auc,cv_f1,cv_recall,cv_precision
+Random Forest,0.893,0.975,0.863,0.797,0.942
+XGBoost,0.869,0.979,0.792,0.841,0.75
+SVM,0.688,0.96,0.461,0.874,0.314
+Logistic Regression,0.458,0.923,0.272,0.845,0.162
